@@ -15,22 +15,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 📅 **Contributions (2024)** | 190+ commits |
-| 📦 **Public Repositories** | 48 |
-| ⭐ **Total Stars** | Growing |
-| 🔥 **Current Streak** | Active Daily |
-| 💻 **Primary Languages** | TypeScript, JavaScript, HTML/CSS |
-
-</div>
-
----
-
 ## 🚀 About Me
 
 Full Stack Engineer specializing in **healthcare diagnostics** and **ERP systems**. I build production systems end-to-end—from architecture design to deployment—with a relentless focus on **performance**, **clean code**, and **user experience**.
@@ -151,19 +135,12 @@ Food delivery website with order management, delivery tracking, and restaurant m
 
 ## 💡 Key Achievements
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎯 Problem Solving
 ```
 Challenge: Legacy search returned incomplete, slow results
 Action:    Profiled endpoints, optimized queries, simplified filters
 Result:    3x faster response time, 100% accurate retrieval
 ```
-
-</td>
-<td width="50%">
 
 ### ⚡ Performance Optimization
 ```
@@ -172,11 +149,6 @@ Action:    Designed single-page, role-aware workflow
 Result:    40% reduction in data entry time, fewer errors
 ```
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 📄 Automation
 ```
 Challenge: Manual, inconsistent report generation
@@ -184,23 +156,15 @@ Action:    Built configurable PDF generation with templates
 Result:    Near-zero manual effort, professional output
 ```
 
-</td>
-<td width="50%">
-
-### 🏥 Healthcare Impact
-```
-Challenge: Complex diagnostic workflows causing delays
-Action:    Unified patient registration, sample collection, results
-Result:    Streamlined operations for multiple medical centers
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ## 🎯 Currently
 
