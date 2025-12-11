@@ -87,6 +87,14 @@ const jawad = {
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/BuiltByJawad" alt="GitHub Contribution Chart" width="100%" />
+</p>
+
+---
+
 ## 🏆 Featured Projects
 
 <div align="center">
