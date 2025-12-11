@@ -69,6 +69,17 @@ const jawad = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuiltByJawad&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=BuiltByJawad&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByJawad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</div>
+
 ---
 
 ## 🏆 Featured Projects
@@ -160,9 +171,9 @@ Result:    Near-zero manual effort, professional output
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
 
 ---
 
@@ -207,6 +218,6 @@ I'm actively seeking **Full-Stack Developer** roles where I can:
 
 *"Building elegant solutions to complex problems, one commit at a time."*
 
-**190 contributions in 2024** • **6 public repositories** • **Growing every day**
+**190 contributions in 2024** • **48 public repositories** • **Growing every day**
 
 </div>
