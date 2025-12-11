@@ -87,14 +87,6 @@ const jawad = {
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/BuiltByJawad" alt="GitHub Contribution Chart" width="100%" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -159,12 +151,19 @@ Food delivery website with order management, delivery tracking, and restaurant m
 
 ## 💡 Key Achievements
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎯 Problem Solving
 ```
 Challenge: Legacy search returned incomplete, slow results
 Action:    Profiled endpoints, optimized queries, simplified filters
 Result:    3x faster response time, 100% accurate retrieval
 ```
+
+</td>
+<td width="50%">
 
 ### ⚡ Performance Optimization
 ```
@@ -173,12 +172,31 @@ Action:    Designed single-page, role-aware workflow
 Result:    40% reduction in data entry time, fewer errors
 ```
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📄 Automation
 ```
 Challenge: Manual, inconsistent report generation
 Action:    Built configurable PDF generation with templates
 Result:    Near-zero manual effort, professional output
 ```
+
+</td>
+<td width="50%">
+
+### 🏥 Healthcare Impact
+```
+Challenge: Complex diagnostic workflows causing delays
+Action:    Unified patient registration, sample collection, results
+Result:    Streamlined operations for multiple medical centers
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
