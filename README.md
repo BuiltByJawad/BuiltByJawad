@@ -15,6 +15,22 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 📅 **Contributions (2024)** | 190+ commits |
+| 📦 **Public Repositories** | 48 |
+| ⭐ **Total Stars** | Growing |
+| 🔥 **Current Streak** | Active Daily |
+| 💻 **Primary Languages** | TypeScript, JavaScript, HTML/CSS |
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 Full Stack Engineer specializing in **healthcare diagnostics** and **ERP systems**. I build production systems end-to-end—from architecture design to deployment—with a relentless focus on **performance**, **clean code**, and **user experience**.
@@ -68,19 +84,6 @@ const jawad = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/BuiltByJawad">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuiltByJawad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByJawad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BuiltByJawad&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
 
 ---
 
@@ -171,13 +174,7 @@ Result:    Near-zero manual effort, professional output
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 🎯 Currently
 
