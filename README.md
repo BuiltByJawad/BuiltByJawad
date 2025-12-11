@@ -71,18 +71,16 @@ const jawad = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuiltByJawad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Jawad's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByJawad&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/BuiltByJawad">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuiltByJawad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByJawad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiltByJawad&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BuiltByJawad&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BuiltByJawad&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
@@ -175,9 +173,9 @@ Result:    Near-zero manual effort, professional output
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
