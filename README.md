@@ -69,15 +69,19 @@ const jawad = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuiltByJawad&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=BuiltByJawad&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByJawad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+| 📈 Metric | 📊 Value |
+|-----------|----------|
+| **Total Contributions (2024)** | 190+ commits |
+| **Public Repositories** | 48 projects |
+| **Active Days** | Consistent daily activity |
+| **Primary Languages** | TypeScript, JavaScript, HTML/CSS |
+| **Tech Focus** | Full Stack (MERN/PERN) |
+| **Specialization** | Healthcare & ERP Systems |
+
 </div>
 
 ---
