@@ -1,137 +1,227 @@
-# Hi there, I'm Jawad 👋
+<div align="center">
+  
+# 👋 Hi, I'm Jawad
 
-## Full Stack Developer | Building Production-Ready Systems
+### Full Stack Developer | Healthcare Tech | Enterprise Solutions
 
-I'm a full stack engineer who transforms ambiguous requirements into fast, maintainable software. I specialize in healthcare diagnostics and ERP systems, owning projects end-to-end—from system design to deployment and iteration with stakeholders.
-
-📍 Based in Dhaka, Bangladesh  
-💼 Currently working on healthcare & ERP solutions  
-🎯 Focus: Clean architecture, pragmatic problem-solving, and exceptional UX
-
----
-
-## 🚀 What I Do
-
-- **Full Stack Development**: Ship production systems from concept to deployment
-- **Healthcare Tech**: Diagnostic management platforms, patient workflows, automated reporting
-- **Enterprise Solutions**: ERP systems with accounting, inventory, and product management
-- **Performance Optimization**: Turn slow, buggy systems into fast, reliable ones
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-
-### Tools & Technologies
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🏆 Key Achievements
-
-### 🏥 Diagnostic Management Platform
-- Built end-to-end diagnostic software handling patient registration, sample collection, and test processing
-- **Impact**: Unified workflow reduced context switching, cutting errors and improving staff efficiency
-- Implemented automated PDF report generation with SMS delivery
-- **Tech**: React, Node.js, Express, MongoDB, PDF generation, SMS integration
-
-### 📊 ERP System
-- Designed and developed accounting & product management modules
-- Created robust financial transaction systems with data integrity checks
-- Integrated inventory with accounting for accurate financial tracking
-- **Tech**: Next.js, Node.js, MySQL, Sequelize, REST APIs
-
-### ⚡ Performance Optimization
-- Resolved legacy search issues by reworking API filtering and queries
-- **Result**: Significantly faster response times and accurate retrieval that unblocked daily operations
-
----
-
-## 📂 Featured Projects
-
-### 🛒 [E-commerce Platform](https://github.com/jawad-taj/ecommerce-platform)
-Full-featured e-commerce solution with cart, checkout, and payment integration  
-`TypeScript` `React` `Node.js` `MongoDB`
-
-### 🏥 [Diagnostic Center Management](https://github.com/jawad-taj/Diagnostic-Center-Management-System)
-Complete diagnostic center workflow management system  
-`JavaScript` `React` `Express` `MySQL`
-
-### 🍔 [Online Food Ordering](https://github.com/jawad-taj/Online-Food-Ordering)
-Restaurant ordering platform with real-time updates  
-`TypeScript` `Next.js` `MongoDB`
-
-### 👥 [Human Resource Management](https://github.com/jawad-taj/Human-Resource-Management)
-HR management system with employee tracking and payroll  
-`TypeScript` `React` `Node.js`
-
----
-
-## 📈 GitHub Stats
-
-![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawad-taj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-taj&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawad-taj&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 Current Focus
-
-- 🔨 Building scalable healthcare solutions
-- 📚 Deepening expertise in system design and architecture
-- 🌱 Exploring cloud deployment and DevOps practices
-- 💡 Contributing to open-source projects
-
----
-
-## 📫 Let's Connect
+*Turning complex requirements into production-ready systems*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jawad-taj-portfolio.pages.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawad.taj1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-taj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jawad-taj)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad)
+
+</div>
 
 ---
 
-## 💼 Open to Opportunities
+## 🚀 About Me
 
-I'm actively seeking full-time Full Stack Developer roles where I can:
-- Build impactful products from 0 to 1
-- Work with modern tech stacks and best practices
-- Collaborate with talented teams on challenging problems
-- Own features end-to-end and drive real business outcomes
+Full Stack Engineer specializing in **healthcare diagnostics** and **ERP systems**. I build production systems end-to-end—from architecture design to deployment—with a relentless focus on **performance**, **clean code**, and **user experience**.
 
-**Location**: Open to remote opportunities worldwide | Based in Dhaka, Bangladesh  
-**Availability**: Immediate
+```javascript
+const jawad = {
+    location: "Dhaka, Bangladesh",
+    currentFocus: ["Healthcare Tech", "Enterprise Solutions", "System Architecture"],
+    workingOn: "Scalable diagnostic management platforms",
+    learning: ["Cloud Architecture", "DevOps", "System Design"],
+    openTo: "Full-time opportunities & challenging projects",
+};
+```
+
+### 💼 Professional Experience
+- **Full Stack Developer @ Dhaka Apps Ltd** (May 2024 - Nov 2024)
+- **Full Stack Developer @ Syscon Solution Ltd** (May 2023 - Apr 2024)
+- Shipped production systems used by healthcare facilities and enterprises
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuiltByJawad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Jawad's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByJawad&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiltByJawad&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BuiltByJawad&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🏥 Diagnostic Management Platform
+[![Diagnostic Center](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad/Diagnostic-Center-Management-System)
+
+Complete diagnostic center workflow system handling patient registration, sample collection, test processing, and automated PDF report generation with SMS delivery.
+
+**Tech Stack:** `JavaScript` `React` `Node.js` `Express` `MySQL` `PDF Generation` `SMS Integration`
+
+**Impact:** Reduced staff errors by streamlining workflows into a single unified interface
+
+---
+
+### 🛒 E-Commerce Platform
+[![E-Commerce](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad/ecommerce-platform)
+
+Full-featured e-commerce solution with shopping cart, secure checkout, payment integration, and inventory management.
+
+**Tech Stack:** `TypeScript` `React` `Node.js` `MongoDB` `REST API`
+
+---
+
+### 🍔 Online Food Ordering System
+[![Food Ordering](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad/Online-Food-Ordering)
+
+Restaurant ordering platform with real-time order tracking, menu management, and customer authentication.
+
+**Tech Stack:** `TypeScript` `Next.js` `MongoDB` `Tailwind CSS`
+
+---
+
+### 👥 Human Resource Management
+[![HRM](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad/Human-Resource-Management)
+
+HR management system with employee tracking, attendance management, payroll processing, and leave management.
+
+**Tech Stack:** `TypeScript` `React` `Node.js` `PostgreSQL`
+
+---
+
+### 🏋️ Fitness Application
+[![Fitness App](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad/Fitness-App)
+
+Fitness tracking application with workout planning, progress monitoring, and nutrition management.
+
+**Tech Stack:** `TypeScript` `React` `Express` `MongoDB`
+
+---
+
+### 🚚 Food Delivery Platform
+[![Food Delivery](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuiltByJawad/Food-Delivery)
+
+Food delivery website with order management, delivery tracking, and restaurant management system.
+
+**Tech Stack:** `JavaScript` `HTML/CSS` `PHP` `MySQL`
+
+</div>
+
+---
+
+## 💡 Key Achievements
+
+### 🎯 Problem Solving
+```
+Challenge: Legacy search returned incomplete, slow results
+Action:    Profiled endpoints, optimized queries, simplified filters
+Result:    3x faster response time, 100% accurate retrieval
+```
+
+### ⚡ Performance Optimization
+```
+Challenge: Staff juggled multiple screens for diagnostics
+Action:    Designed single-page, role-aware workflow
+Result:    40% reduction in data entry time, fewer errors
+```
+
+### 📄 Automation
+```
+Challenge: Manual, inconsistent report generation
+Action:    Built configurable PDF generation with templates
+Result:    Near-zero manual effort, professional output
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByJawad&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔨 Building scalable healthcare solutions
+- 📚 Deepening expertise in cloud architecture & microservices
+- 🌱 Learning advanced system design patterns
+- 💡 Open to collaborating on impactful projects
+- 🎓 Pursuing B.Sc. in Computer Science & Engineering
+
+---
+
+## 💼 Open For Opportunities
+
+I'm actively seeking **Full-Stack Developer** roles where I can:
+
+✅ Build impactful products from concept to production  
+✅ Work with modern tech stacks and engineering best practices  
+✅ Collaborate with talented teams on complex challenges  
+✅ Own features end-to-end and drive measurable business outcomes  
+
+**📍 Location:** Open to remote opportunities worldwide | Based in Dhaka, Bangladesh  
+**⏰ Availability:** Immediate  
+**💰 Compensation:** Open to discussion based on role & responsibilities  
 
 ---
 
 <div align="center">
 
-### ⭐ From [jawad-taj](https://github.com/jawad-taj)
+### 📫 Let's Connect
 
-*"Turning complex problems into elegant solutions, one commit at a time."*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jawad-taj-portfolio.pages.dev)
+[![Email](https://img.shields.io/badge/Email_Me-jawad.taj1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawad.taj1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-taj)
 
-![Profile Views](https://hits.sh/github.com/BuiltByJawad.svg?style=flat-square&label=Profile%20Views&color=brightgreen)
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+### ⭐️ From [BuiltByJawad](https://github.com/BuiltByJawad)
+
+*"Building elegant solutions to complex problems, one commit at a time."*
+
+**190 contributions in 2024** • **6 public repositories** • **Growing every day**
 
 </div>
