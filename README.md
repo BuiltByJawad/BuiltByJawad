@@ -132,6 +132,6 @@ I'm actively seeking full-time Full Stack Developer roles where I can:
 
 *"Turning complex problems into elegant solutions, one commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=jawad-taj&color=brightgreen&style=flat-square)
+![Profile Views](https://hits.sh/github.com/BuiltByJawad.svg?style=flat-square&label=Profile%20Views&color=brightgreen)
 
 </div>
