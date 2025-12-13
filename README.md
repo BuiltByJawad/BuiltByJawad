@@ -75,7 +75,7 @@ const jawad = {
 
 | 📈 Metric | 📊 Value |
 |-----------|----------|
-| **Total Contributions (2024)** | 190+ commits |
+| **Total Contributions (2025)** | 200+ commits |
 | **Public Repositories** | 48 projects |
 | **Active Days** | Consistent daily activity |
 | **Primary Languages** | TypeScript, JavaScript, HTML/CSS |
