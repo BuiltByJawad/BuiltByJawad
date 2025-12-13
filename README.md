@@ -222,6 +222,6 @@ I'm actively seeking **Full-Stack Developer** roles where I can:
 
 *"Building elegant solutions to complex problems, one commit at a time."*
 
-**190 contributions in 2024** • **48 public repositories** • **Growing every day**
+**200+ contributions in 2025** • **48 public repositories** • **Growing every day**
 
 </div>
